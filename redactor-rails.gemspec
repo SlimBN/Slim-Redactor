@@ -1,6 +1,7 @@
 # -*- encoding: utf-8 -*-
 require File.expand_path('../lib/redactor-rails/version', __FILE__)
 
+
 Gem::Specification.new do |gem|
   gem.authors       = ["Sammy"]
   gem.email         = ["sammylintw@gmail.com"]
